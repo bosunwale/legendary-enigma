@@ -1,0 +1,9 @@
+Welcome to Mobile Application Development
+My name is John Oluwale
+I am here for the first time
+Thank you very much
+I want to get comfortable using git. 
+Therefroe, expect a lot of me creating repositories.
+
+So i made a mistake by committing this document into the first repo i created
+UPDATE: I'm going to commit and push this to the new repo i created called legendary-enigma
